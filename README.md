@@ -7,7 +7,6 @@ fingertips, you’ll receivecustomized recommendations and support every step of
 aspirations with ease and confidence.
 
 
-
 ## Technology Used
 
 - Java Development Kit (JDK)
@@ -17,15 +16,12 @@ aspirations with ease and confidence.
 - Java Database Connectivity (JDBC)
 
 
-<h2><a href="https://techwithorven.xyz/">Preview of Website</a></h2>
-
-
 ## 🔗 Developer Links
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/orvencasido)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orven-casido-39bb58319/)
 [![faceook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.facebook.com/profile.php?id=100008985125961)
 
 ## Documentaion
-![Health and Fitness Application](other/cloud-resume-architecture.png)
+![Health and Fitness Application](CASIDO, ORVEN P._PDF DOCUMENTATION.pdf)
 
 2024 | Orven Casido
